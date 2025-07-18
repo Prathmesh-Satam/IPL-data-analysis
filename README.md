@@ -39,6 +39,6 @@ To analyze IPL match and delivery data to:
 4. Run each cell to view the output and visualizations
 
 ## 🔗 GitHub Repository
-[GitHub Link](https://github.com/yourusername/ipl-analysis) 
+[GitHub Link](https:/Prathmesh-Satam/github.com//IPL-data-analysis) 
 
 
