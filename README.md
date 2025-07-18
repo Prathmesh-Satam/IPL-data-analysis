@@ -41,4 +41,11 @@ To analyze IPL match and delivery data to:
 ## 🔗 GitHub Repository
 [GitHub Link](https://github.com/Prathmesh-Satam/IPL-data-analysis) 
 
+## 📂 Dataset
+This project uses IPL datasets from [Kaggle: IPL Data](https://www.kaggle.com/datasets).  
+You will need to download the following files manually:
+- `matches.csv`
+- `deliveries.csv`
+
+📥 After downloading, place them in the same directory as the notebook (`ipl_analysis.ipynb`) to run the project.
 
